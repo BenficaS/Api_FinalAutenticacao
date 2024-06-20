@@ -13,3 +13,4 @@ Abaixo veremos testes feitos na aplicação.
 ![Screenshot_2](https://github.com/BenficaS/Api_FinalAutenticacao/assets/107698702/8fdece54-2b81-452d-aec7-f99349100728)
 ![Screenshot_4](https://github.com/BenficaS/Api_FinalAutenticacao/assets/107698702/7ab66f53-5e07-453d-bcfa-e74ca651dd97)
 ![Screenshot_5](https://github.com/BenficaS/Api_FinalAutenticacao/assets/107698702/4a726132-9ca1-40de-9ee0-1c6a2959811b)
+E assim findamos nosso projeto de validação!.
