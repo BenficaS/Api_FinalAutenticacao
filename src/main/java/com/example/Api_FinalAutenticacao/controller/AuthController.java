@@ -36,11 +36,11 @@ public class AuthController {
     public ResponseEntity<String> extractRole(@PathVariable String token) {
         String role = authService.extractRole(token);
         if (role != null) {
-            System.out.println("Role extraída: " + role);
+            System.out.println(role);
             return ResponseEntity.ok(role);
         } else {
-            System.err.println("Role não encontrada para o token: " + token);
-            return ResponseEntity.status(400).body("Role not found");
+            System.err.println(token);
+            return ResponseEntity.status(400).body("Role não existe.");
         }
     }
 }
